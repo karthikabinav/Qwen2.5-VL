@@ -1,10 +1,6 @@
-# Qwen3-VL
+# Qwen2.5-VL
 
-<p align="center">
-    <img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vllogo.png" width="400"/>
-<p>
-
-... (trimmed for brevity)
+Qwen2.5-VL is a vision-language model.
 
 1. related project [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)
 2. related project [Aria](https://github.com/rhymes-ai/Aria)
